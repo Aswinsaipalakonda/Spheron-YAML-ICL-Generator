@@ -15,7 +15,7 @@ Requirements
 - Spheron ICL configuration files (for reference)
 
 Installation
-1. Clone the repository: git clone https://github.com/Aswin2545/spheron-yaml-generator.git
+1. Clone the repository: git clone https://github.com/Aswinsaipalakonda/spheron-yaml-generator.git
 2. Navigate to the project directory: cd spheron-yaml-generator
 3. Install dependencies: pip install -r requirements.txt
 4. Run the generator: python spheron_yaml_generator.py
@@ -27,7 +27,7 @@ Usage
 4. Save the YAML file for use with Spheron's ICL configuration
 
 Contributing
-Contributions are welcome! If you'd like to report a bug, request a feature, or submit a pull request, please visit our https://github.com/Aswin2545/spheron-yaml-generator/issues.
+Contributions are welcome! If you'd like to report a bug, request a feature, or submit a pull request, please visit our https://github.com/Aswinsaipalakonda/spheron-yaml-generator/issues.
 
 License
 This project is licensed under the https://opensource.org/licenses/Aswin.
@@ -37,4 +37,4 @@ Acknowledgments
 - Aswin for developing and maintaining this generator
 
 Contact
-For questions, feedback, or support, please contact aswinsaipalakonda@gmail.com or visit our https://github.com/Aswin2545/spheron-yaml-generator.
+For questions, feedback, or support, please contact aswinsaipalakonda@gmail.com or visit our https://github.com/Aswinsaipalakonda/spheron-yaml-generator.
